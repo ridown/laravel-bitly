@@ -1,5 +1,5 @@
 {
-  "name": "shivella/laravel-bitly",
+  "name": "ridown/laravel-bitly",
   "description": "Laravel package for generating bitly url",
   "keywords": ["laravel", "bitly", "package", "short", "url", "link"],
   "homepage": "https://github.com/Shivella/laravel-bitly",
@@ -27,7 +27,7 @@
   "require": {
     "php": ">=7.1",
     "ext-json": "*",
-    "illuminate/support": "^5.8 || ^6.0",
+    "illuminate/support": "^5.8 || ^6.0 || ^7.0",
     "guzzlehttp/guzzle": "~6.0"
   },
   "require-dev": {
